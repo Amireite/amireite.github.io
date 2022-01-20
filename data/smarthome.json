@@ -2,97 +2,24 @@
     "Label": "Smart Home",
     "SessionList": [
         {
-            "Label": "Phòng Ngủ",
-            "DeviceList": [
-                {
-                    "Label": "Đèn Hắt",
-                    "IsRequireNewTab": false,
-                    "State": "Active",
-                    "Type": "Device"
-                },
-                {
-                    "Label": "Đèn Chùm",
-                    "IsRequireNewTab": false,
-                    "State": "Inactive",
-                    "Type": "Device"
-                },
-                {
-                    "Label": "Đèn Lon",
-                    "IsRequireNewTab": false,
-                    "State": "Inactive",
-                    "Type": "Device"
-                },
-                {
-                    "Label": "Đèn Ngủ",
-                    "IsRequireNewTab": false,
-                    "State": "Active",
-                    "Type": "Device"
-                },
-                {
-                    "Label": "Tivi",
-                    "IsRequireNewTab": true,
-                    "State": "Inactive",
-                    "Type": "Device"
-                },
-                {
-                    "Label": "Máy Lạnh",
-                    "IsRequireNewTab": true,
-                    "State": "Inactive",
-                    "Type": "Device"
-                },
-                {
-                    "Label": "Rèm Cửa Sổ",
-                    "Type": "Curtain"
-                },
-                {
-                    "Label": "Rèm Cuốn",
-                    "Type": "Curtain"
-                }
-            ],
-            "MacroList": [
-                
-            ],
-            "CameraList": [
-                
-            ]
-        },
-        {
             "Label": "Phòng Khách",
             "DeviceList": [
                 {
+                    "Id": 1,
                     "Label": "Đèn Ốp Trần",
                     "IsRequireNewTab": false,
-                    "State": "Active",
                     "Type": "Device"
                 },
                 {
+                    "Id": 2,
                     "Label": "Đèn Cây",
                     "IsRequireNewTab": false,
-                    "State": "Inactive",
                     "Type": "Device"
                 },
                 {
+                    "Id": 3,
                     "Label": "Đèn Tường",
                     "IsRequireNewTab": false,
-                    "State": "Inactive",
-                    "Type": "Device"
-                },
-                {
-                    "Label": "Máy Lạnh",
-                    "IsRequireNewTab": true,
-                    "State": "Active",
-                    "Type": "Device"
-                },
-                {
-                    "Label": "Tivi",
-                    "IsRequireNewTab": true,
-                    "State": "Inactive",
-                    "Type": "Device"
-                },
-                {
-                    "Label": "Quạt Trần",
-                    "IsRequireNewTab": true,
-                    "State": "Active",
                     "Type": "Device"
                 },
                 {
