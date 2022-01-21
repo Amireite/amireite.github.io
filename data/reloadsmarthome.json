@@ -8,27 +8,34 @@
                     "Id": 1,
                     "Label": "Đèn Ốp Trần",
                     "IsRequireNewTab": false,
-                    "Type": "Device"
+                    "Type": "Device",
+                    "Detail": {
+                        "me": "84d1",
+                        "agt": "A3YAAAAwADkHRzg0MTU2Mw",
+                        "idx": "L1"
+                    }
                 },
                 {
                     "Id": 2,
                     "Label": "Đèn Lon",
                     "IsRequireNewTab": false,
-                    "Type": "Device"
+                    "Type": "Device",
+                    "Detail": {
+                        "me": "84d1",
+                        "agt": "A3YAAAAwADkHRzg0MTU2Mw",
+                        "idx": "L2"
+                    }
                 },
                 {
                     "Id": 3,
                     "Label": "Đèn Hắt",
                     "IsRequireNewTab": false,
-                    "Type": "Device"
-                },
-                {
-                    "Label": "Rèm Cửa Chính",
-                    "Type": "Curtain"
-                },
-                {
-                    "Label": "Rèm Cuốn",
-                    "Type": "Curtain"
+                    "Type": "Device",
+                    "Detail": {
+                        "me": "84d1",
+                        "agt": "A3YAAAAwADkHRzg0MTU2Mw",
+                        "idx": "L3"
+                    }
                 }
             ],
             "MacroList": [
