@@ -5,34 +5,22 @@
             "Label": "Phòng Khách",
             "DeviceList": [
                 {
+                    "Id": 1,
                     "Label": "Đèn Ốp Trần",
                     "IsRequireNewTab": false,
-                    "Type": "Device",
-                    "Detail": {
-                        "me": "445d",
-                        "agt": "A3YAAAA1ADkERzg0MTU2Mw",
-                        "idx": "L1"
-                    }
+                    "Type": "Device"
                 },
                 {
+                    "Id": 2,
                     "Label": "Đèn Cây",
                     "IsRequireNewTab": false,
-                    "Type": "Device",
-                    "Detail": {
-                        "me": "445d",
-                        "agt": "A3YAAAA1ADkERzg0MTU2Mw",
-                        "idx": "L2"
-                    }
+                    "Type": "Device"
                 },
                 {
+                    "Id": 3,
                     "Label": "Đèn Tường",
                     "IsRequireNewTab": false,
-                    "Type": "Device",
-                    "Detail": {
-                        "me": "445d",
-                        "agt": "A3YAAAA1ADkERzg0MTU2Mw",
-                        "idx": "L3"
-                    }
+                    "Type": "Device"
                 }
             ],
             "MacroList": [
